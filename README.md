@@ -1,2 +1,3 @@
-# py-dev-m3-base
-Modul 3 - Python Developer program obrazovanja
+# PyDev repo za M#
+
+Osnovni repo za cijeli modul 3, Python Developer programa obrazovanja.
